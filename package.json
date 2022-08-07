@@ -1,0 +1,17 @@
+{
+  "name": "ms-authetication",
+  "version": "1.0.0",
+  "description": "Microservice criado durante live code com o pessoal da DIO",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./",
+    "build": "tsc -p ."
+  },
+  "author": "Sypriano Martins",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.6.4",
+    "typescript": "^4.7.4"
+  }
+}
